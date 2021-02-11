@@ -6,12 +6,11 @@ title: "LexExp - The Lexicon Expander"
 
 ## Citation
 
-Sarker A. LexExp: A system for automatically expanding concept lexicons for noisy biomedical texts. Bioinformatics. 2020 Nov 27:btaa995. doi: 10.1093/bioinformatics/btaa995. Epub ahead of print. PMID: 33244602.
+Sarker A. LexExp: A system for automatically expanding concept lexicons for noisy biomedical texts. Bioinformatics. 2020 Nov 27:btaa995. <a href="https://pubmed.ncbi.nlm.nih.gov/33244602/"> doi:10.1093/bioinformatics/btaa995. Epub ahead of print. PMID: 33244602 </a>
 
 ## Script
 
-[Bitbucket link] (https://bitbucket.org/asarker/lexexp)
-
+<a href = "https://bitbucket.org/asarker/lexexp"> Bitbucket link </a>
 
 ## Resources
 
