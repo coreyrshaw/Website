@@ -1,7 +1,7 @@
 ---
 authors: "Abeed Sarker, Azadeh Nikfarjam, Graciela Gonzalez"
-title: "Social media mining shared task workshop"
-additional_info: "In Biocomputing 2016: Proceedings of the Pacific Symposium, pp. 581-592. 2016."
+title: "Social Media Mining Shared Task Workshop."
+additional_info: "Proceedings of the Pacific Symposium of Biocomputing (PSB 2016). 2016; 21:581-592. Hawaii, USA. DOI: 10.1142/9789814749411_0054."
 external_url: https://www.worldscientific.com/doi/abs/10.1142/9789814749411_0054
 categories:
   - Social Media 

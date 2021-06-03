@@ -1,7 +1,7 @@
 ---
 authors: "Abeed Sarker,  Graciela Gonzalez"
-title: "Portable automatic text classification for adverse drug reaction detection via multi-corpus training"
-additional_info: "Journal of Biomedical Informatics (JBI). Volume 53. Pages: 196-207. DOI: 10.1016/j.jbi.2014.11.002. 2014"
+title: "Portable Automatic Text Classification for Adverse Drug Reaction Detection via Multi-Corpus Training."
+additional_info: "J Biomed Inform. 2015 Feb; 53:196-207. DOI: 10.1016/j.jbi.2014.11.002. Epub 2014 Nov 8. PMID: 25451103; PMCID: PMC4355323."
 external_url: https://www.ncbi.nlm.nih.gov/pubmed/25451103
 data:
 code:

@@ -1,7 +1,7 @@
 ---
-authors: "Diego Mollá, María Elena Santiago-Martínez, Abeed Sarker, Cécile Paris"
-title: "A corpus for research in text processing for evidence based medicine"
-additional_info: "Language Resources and Evaluation 50, no. 4 (2016): 705-727."
+authors: "Molla, D., Santiago-Martinez, M.E., Sarker, A."
+title: "A Corpus for Research in Text Processing for Evidence Based Medicine."
+additional_info: "Lang Resources and Evaluation. 2015 Dec 21; 705-727. DOI: 10.1007/s10579-015-9327-2."
 external_url: https://link.springer.com/article/10.1007/s10579-015-9327-2
 categories:
   - Social Media 

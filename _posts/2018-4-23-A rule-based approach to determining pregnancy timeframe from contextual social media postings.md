@@ -1,7 +1,7 @@
 ---
 authors: "Masoud Rouhizadeh, Arjun Magge, Ari Klein, Abeed Sarker, Graciela Gonzalez"
-title: "A rule-based approach to determining pregnancy timeframe from contextual social media postings"
-additional_info: "In Proceedings of the 2018 International Conference on Digital Health, pp. 16-20. ACM, 2018."
+title: "A Rule-Based Approach to Determining Pregnancy Timeframe from Contextual Social Media Postings."
+additional_info: "Proceedings of the 2018 International Digital Health Conference (DH'18). 2018; 16-20. Lyon, France. DOI: https://doi.org/10.1145/3194658.3194679."
 external_url: https://dl.acm.org/citation.cfm?id=3194679
 categories:
   - Social Media 
